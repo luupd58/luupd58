@@ -5,11 +5,11 @@
 
 - 🤝 I’m looking for help with **Cloud (AWS) + any technology that can be combined with Java**
 
-- 💬 Ask me about **Java + React JS**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **phamluu025@gmail.com**
 
-- 📄 Know about my experiences [over 6 years with Java](over 6 years with Java)
+- 📄 Know about my experiences [over 6 years with Java]
 
 - ⚡ Fun fact **Just an introvert**
 
